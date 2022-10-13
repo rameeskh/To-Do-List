@@ -4,7 +4,7 @@
 
 ## Description
 
-* A basic TO-D) list app created using JavaScript.
+* A basic TO-DO list app created using JavaScript.
 * todo's are stored in local storage of the n=browser.
 
 # How to run
